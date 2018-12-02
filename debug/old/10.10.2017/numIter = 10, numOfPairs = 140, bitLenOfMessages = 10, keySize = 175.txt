@@ -1,0 +1,4 @@
+
+10 attacks is done in 226261 milliseconds
+average attack is done in 22626.1 milliseconds
+The probability of success is 0

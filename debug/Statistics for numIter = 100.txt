@@ -1,0 +1,2 @@
+ for 10number of modules needed number of pairs is 11
+ for 60number of modules needed number of pairs is 13

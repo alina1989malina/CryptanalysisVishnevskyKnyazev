@@ -1,0 +1,4 @@
+
+50 attacks is done in 10267 milliseconds
+average attack is done in 205.34 milliseconds
+The probability of success is 0.92

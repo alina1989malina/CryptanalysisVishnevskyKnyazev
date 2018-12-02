@@ -1,0 +1,4 @@
+
+1000 attacks is done in 1512349 milliseconds
+average attack is done in 1512.35 milliseconds
+The probability of success is 1

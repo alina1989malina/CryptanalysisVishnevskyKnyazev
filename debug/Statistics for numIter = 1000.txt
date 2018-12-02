@@ -1,0 +1,9 @@
+ for 10number of modules needed number of pairs is 12
+ for 60number of modules needed number of pairs is 18
+ for 110number of modules needed number of pairs is 18
+ for 160number of modules needed number of pairs is 18
+ for 210number of modules needed number of pairs is 19
+ for 260number of modules needed number of pairs is 18
+ for 310number of modules needed number of pairs is 19
+ for 360number of modules needed number of pairs is 20
+ for 410number of modules needed number of pairs is 21
